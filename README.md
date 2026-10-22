@@ -13,7 +13,7 @@ from data cleaning to statistical modelling, forecasting and reporting.
 - 📊 Dashboards and visualisations for public health experts
 
 👀 Tools
-`R` · `Python` · `SQL` · `Stata` · `SPSS` · `Tableau` · `Power BI` · `Quarto`
+`R` · `Python` · `SQL` · `Stata` · `SPSS` · `Tableau` · `Power BI` 
 
 📖 Projects
 🚧 Portfolio projects using open public health data — coming soon.
