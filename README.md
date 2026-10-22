@@ -16,7 +16,8 @@ from data cleaning to statistical modelling, forecasting and reporting.
 `R` · `Python` · `SQL` · `Stata` · `SPSS` · `Tableau` · `Power BI` 
 
 📖 Projects
-🚧 Portfolio projects using open public health data — coming soon.
+🚧 Portfolio projects using open public health data
+- [PM10, temperature & mortality in Chicago](https://github.com/VictorLe10/pm10-mortality-chicago): quasi-Poisson time-series & DLNM in R
 
 
 📫Contact
